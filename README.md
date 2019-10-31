@@ -1,4 +1,4 @@
-This work is a reproduction of a RWM (resistive wall mode) simulation[1] produced in our lab back in 2013.
+This work is a reproduction of a RWM (resistive wall mode) root locus analysis produced in our lab back in 2013 [1].
 
 The results are shown below and at present, are not identical.
 
