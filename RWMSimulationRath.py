@@ -120,6 +120,7 @@ jpl.plot.finalizeSubplot(	ax,
 						xlabel='Frequency (kHz)',
 						ylabel='Growth rate (1/ms)',
 						title='gains = %s'%''.join(['%.1e, '%i for i in gain]))
-
+jpl.plot.finalizeFigure(fig,figSize=[6,3])
+fig.savefig('result.png')
 
 	
